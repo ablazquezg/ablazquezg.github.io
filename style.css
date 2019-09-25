@@ -1,27 +1,12 @@
 
-.course, .skills {
+.skills {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
 
-.course .title {
-  color: #509e98;
-  -ms-flex: 0 0 33.3%;
-  flex: 0 0 33.3%;
-  max-width: 33%;
-}
 
-.course .descrition {
-  -ms-flex: 0 0 66.6%;
-  flex: 0 0 66.6%;
-  max-width: 66.6%;
-}
-
-.course .descrition p {
-  padding-left: 1em;
-}
 
 .skills .column {
   -ms-flex: 0 0 50%%;
@@ -29,7 +14,7 @@
   max-width: 50%;
 }
 
-.skills .column ul, ul.job-description {
+.skills .column ul {
   list-style-type: none;
 }
 
@@ -39,19 +24,13 @@
   color: #509e98;
 }
 
-.school, .job-title {
+.carrera, .job-title {
   text-transform: capitalize;
 }
 
-.school span, .job-title span {
+.carrera span, .job-title span {
   color: #889499;
   text-decoration: underline;
-}
-
-ul.job-description li:before{
-  content: "✔";
-  padding-right: 0.5em;
-  color: #509e98;
 }
 
 footer {
@@ -61,15 +40,6 @@ footer {
  text-align: right;
 }
 
-@media only screen and (max-width: 768px) {
-  .course {
-    display: block;
-  }
-
-  .course .title, .course .descrition {
-    max-width: 100%;
-  }
-}
 
 @media only screen and (max-width: 576px) {
   .skills {
