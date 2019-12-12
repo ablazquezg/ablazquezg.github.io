@@ -25,4 +25,4 @@ Multi-Focal Segmentation of Active Bleed after Pelvic Fractures", Machine Learni
 
 - **Ane Blázquez-García**, Angel Conde, Aitor Milo, Roberto Sánchez & Irantzu
 Barrio (2020) Short-term office building elevator energy consumption forecast using SARIMA,
-Journal of Building Performance Simulation, 13:1, 69-78, DOI: 10.1080/19401493.2019.1698657
+Journal of Building Performance Simulation, 13:1, 69-78, DOI: [https://www.tandfonline.com/doi/full/10.1080/19401493.2019.1698657](10.1080/19401493.2019.1698657)
