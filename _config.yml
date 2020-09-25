@@ -41,7 +41,7 @@ avatar: #"/img/yuyinzhou.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Ane Blazquez Garcia
-  email: "aneb_18_95@hotmail.com"
+  # email:
   github: ablazquezg    # eg. daattali
 
 # Select which links to show in the footer
