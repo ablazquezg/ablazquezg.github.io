@@ -28,4 +28,4 @@ Barrio (2020) Short-term office building elevator energy consumption forecast us
 Journal of Building Performance Simulation, 13:1, 69-78, DOI: [10.1080/19401493.2019.1698657](https://www.tandfonline.com/doi/full/10.1080/19401493.2019.1698657)
 
 - **Ane Blázquez-García**, Angel Conde, Usue Mori & Jose A. Lozano (2020) A review on outlier/anomaly detection in time series data,
-[arXiv:2002.04236](https://arxiv.org/abs/2002.04236)
+[arXiv:2002.04236](https://arxiv.org/abs/2002.04236) (to appear in ACM Computing Surveys)
