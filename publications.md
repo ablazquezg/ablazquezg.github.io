@@ -24,7 +24,7 @@ Multi-Focal Segmentation of Active Bleed after Pelvic Fractures", Machine Learni
 #### Journal papers
 
 - **Ane Blázquez-García**, Angel Conde, Usue Mori & Jose A. Lozano (2021) A Review on Outlier/Anomaly Detection in Time Series Data, ACM Computing Surveys, 56:3, 1--33, DOI:
-[10.1145/3444690](https://dl.acm.org/doi/abs/10.1145/3444690) (to appear in ACM Computing Surveys)
+[10.1145/3444690](https://dl.acm.org/doi/abs/10.1145/3444690)
 
 - **Ane Blázquez-García**, Angel Conde, Usue Mori & Jose A. Lozano (2020) A review on outlier/anomaly detection in time series data,
 [arXiv:2002.04236](https://arxiv.org/abs/2002.04236) (to appear in ACM Computing Surveys)
