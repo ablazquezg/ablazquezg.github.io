@@ -27,7 +27,7 @@ Multi-Focal Segmentation of Active Bleed after Pelvic Fractures", Machine Learni
 [10.1145/3444690](https://dl.acm.org/doi/abs/10.1145/3444690)
 
 - **Ane Blázquez-García**, Angel Conde, Usue Mori & Jose A. Lozano (2020) A review on outlier/anomaly detection in time series data,
-[arXiv:2002.04236](https://arxiv.org/abs/2002.04236) (to appear in ACM Computing Surveys)
+[arXiv:2002.04236](https://arxiv.org/abs/2002.04236)
 
 - **Ane Blázquez-García**, Angel Conde, Aitor Milo, Roberto Sánchez & Irantzu
 Barrio (2020) Short-term office building elevator energy consumption forecast using SARIMA,
