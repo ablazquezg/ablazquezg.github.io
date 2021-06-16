@@ -23,6 +23,9 @@ Multi-Focal Segmentation of Active Bleed after Pelvic Fractures", Machine Learni
 
 #### Journal papers
 
+- **Ane Blázquez-García**, Angel Conde, Usue Mori & Jose A. Lozano (2021) Water leak detection using self-supervised time series classification, Information Sciences (to be appeared) DOI:
+[10.1016/j.ins.2021.06.015](https://www.sciencedirect.com/science/article/abs/pii/S002002552100606X)
+
 - **Ane Blázquez-García**, Angel Conde, Usue Mori & Jose A. Lozano (2021) A Review on Outlier/Anomaly Detection in Time Series Data, ACM Computing Surveys, 56:3, 1--33, DOI:
 [10.1145/3444690](https://dl.acm.org/doi/abs/10.1145/3444690)
 
