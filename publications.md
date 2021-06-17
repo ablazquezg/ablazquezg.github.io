@@ -12,7 +12,7 @@ title: Publications
 - Song Bai, Yingwei Li, **Yuyin Zhou**, Qizhu Li, Philip HS Torr, "Adversarial Metric Attack for Person Re-identification", Arxiv ([PDF](https://arxiv.org/pdf/1901.10650.pdf))
 -->
 
-#### Conference papers
+<!-- #### Conference papers
 <!--
 - Zhishuai Zhang, **Yuyin Zhou**, Wei Shen, Elliot K Fishman, Alan L Yuille, "Lesion Detection by Efficiently Bridging 3D Context", Machine Learning in Medical Imaging (MLMI, **Oral**) Workshop of MICCAI, 2019.
 - **Yuyin Zhou**, David Dreizin, Yingwei Li, Zhishuai Zhang, Yan Wang, Alan L Yuille, "Multi-Scale Attentional Network for
